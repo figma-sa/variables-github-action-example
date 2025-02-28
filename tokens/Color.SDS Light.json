@@ -14,7 +14,8 @@
               "EFFECT_COLOR"
             ],
             "codeSyntax": {
-              "WEB": "var(--sds-color-background-utilities-scrim)"
+              "WEB": "$sds-color-background-utilities-scrim",
+              "ANDROID": "$sds-background-priamry"
             }
           }
         }
